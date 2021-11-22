@@ -9,12 +9,10 @@
 
 [<img align="left" alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=#1ba94c" />][hackerrank]
 [<img align="left" alt="Codewars" src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=red" />][codewars]
-[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=black" />][stackoverflow]  
-
-<br>
-<br>
+[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=black" />][stackoverflow]
   
-
+    
+    
 ### Connect with me
 
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
