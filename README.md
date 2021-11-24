@@ -11,10 +11,10 @@
 [<img align="left" alt="Codewars" src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=red" />][codewars]
 [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=black" />][stackoverflow]   
   
-<br>
-<br>
+<br> 
+<br> 
  
-### Connect with me
+### Connect with me 
 
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][in]  
@@ -31,9 +31,9 @@
 <img align="left" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />  
 
 <br>
-<br>
+<br> 
 
-### Framework Stack
+### Framework Stack 
 
 <img align="left" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
 <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
