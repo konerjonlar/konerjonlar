@@ -1,6 +1,6 @@
 ### Welcome <div align = 'right'>![](https://komarev.com/ghpvc/?username=konerjonlar&color=yellow)</div>
-
-## I'm a jr back-end developer.
+### :zap: GitHub Stats
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/konerjonlar?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card)
 
 - 🌱 I’m currently exploring new things in technology. 
 - 🥅 I'm looking for collaborate content makers.
@@ -43,8 +43,7 @@
 <br>
 <br>
 
-### :zap: GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/konerjonlar?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card)
+
 [<img align="center" src="https://github-readme-stats.vercel.app/api?username=konerjonlar&show_icons=true&theme=gruvbox" />][stats]
 
 [codewars]: https://www.codewars.com/users/konerjonlar
