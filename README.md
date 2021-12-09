@@ -1,7 +1,6 @@
-### Welcome <div align = 'right'>![](https://komarev.com/ghpvc/?username=konerjonlar&color=yellow)</div>
 ### :zap: GitHub Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/konerjonlar?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card)
-
+<div align = 'right'>![](https://komarev.com/ghpvc/?username=konerjonlar&color=yellow)</div>
 - 🌱 I’m currently exploring new things in technology. 
 - 🥅 I'm looking for collaborate content makers.
 
