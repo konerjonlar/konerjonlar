@@ -40,7 +40,8 @@
 <br>
 
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api?username=konerjonlar&show_icons=true&theme=gruvbox" />][stats]
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=konerjonlar&show_icons=true&theme=dark&locale=en&layout=compact"/>
+
 
 [codewars]: https://www.codewars.com/users/konerjonlar
 [hackerrank]: https://www.hackerrank.com/orhancansu98
