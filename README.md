@@ -44,7 +44,7 @@
 <br>
 
 ### :zap: GitHub Stats
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/konerjonlar?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card)
 [<img align="center" src="https://github-readme-stats.vercel.app/api?username=konerjonlar&show_icons=true&theme=gruvbox" />][stats]
 
 [codewars]: https://www.codewars.com/users/konerjonlar
