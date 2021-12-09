@@ -38,6 +38,7 @@
 
 <br>
 <br>
+<br>
   
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=konerjonlar&show_icons=true&theme=dark&locale=en&layout=compact"/>
@@ -48,4 +49,3 @@
 [stackoverflow]: https://stackoverflow.com/users/15897604/konerjonlar
 [gmail]: mailto:orhancansu98@gmail.com
 [in]: https://www.linkedin.com/in/orhan-cansu-a430b8a9/
-[stats]: https://github.com/konerjonlar/github-readme-stats
