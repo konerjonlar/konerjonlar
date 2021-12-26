@@ -48,4 +48,4 @@
 [hackerrank]: https://www.hackerrank.com/orhancansu98
 [stackoverflow]: https://stackoverflow.com/users/15897604/konerjonlar
 [gmail]: mailto:orhancansu98@gmail.com
-[in]: https://www.linkedin.com/in/orhan-cansu-a430b8a9/
+[in]: https://www.linkedin.com/in/orhan-cansu/
